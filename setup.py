@@ -20,7 +20,7 @@ with open ('README.rst') as f:
 
 setup(
     name = "kudosudoku",
-    version = "1.0.1",
+    version = "1.0.2",
     description = "Sudoku solver,that solves sudoku puzzles using constraint programming",
     url = "https://github.com/VarshneyaB/kudoSudoku.git",
     author = "Varshneyabhushan",
