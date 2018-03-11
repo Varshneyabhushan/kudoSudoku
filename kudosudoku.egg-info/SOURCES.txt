@@ -1,0 +1,8 @@
+README.rst
+setup.py
+kudoSudoku/__init__.py
+kudoSudoku/test_kudoSudoku.py
+kudosudoku.egg-info/PKG-INFO
+kudosudoku.egg-info/SOURCES.txt
+kudosudoku.egg-info/dependency_links.txt
+kudosudoku.egg-info/top_level.txt

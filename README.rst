@@ -20,7 +20,7 @@ kudoSudoku
 
 
 
-A sudoku solver that solves sudoku using constraint programming
+A sudoku solver that solves the puzzle using constraint programming
 
 Installation
 ============
