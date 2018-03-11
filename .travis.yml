@@ -1,0 +1,17 @@
+language : python
+python :
+  - 2.6
+  - 2.7
+  - 3.2
+  - 3.3
+  - 3.4
+  - 3.5.0
+  - 3.6.0
+  - 3.6.4
+
+os :
+  - linux
+  - windows
+
+script:
+  - py.test
